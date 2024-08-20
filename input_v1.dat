@@ -1,0 +1,17 @@
+'N2L144M0C1T030.dat'		!input_config
+'N2L144M0C1T030.dat'		!output_config
+'N2L144M0C1T030.txt'		!data_output
+1		!init; 0 -> old config, 1 -> new config
+0.30d0		!temperature
+0d0		!mass
+1d0		!'t Hooft coupling
+200			!ntraj(total number of sweeps)
+10			!nskip
+300	!Ntau
+0.0033d0	!Dtau for xmat
+0.0033d0	!Dtau for umat
+0	!CheckHam; 1 -> check the conservation of the Hamiltonian.
+4385	!mersenne_seed
+
+
+
